@@ -11,13 +11,11 @@
    </a>
 </div>
 
-## <img src="https://github.com/antonimodev/42-Documentation/blob/main/banners/about.png" alt="Info Image" width=30> ABOUT 
+## <img src="https://github.com/antonimodev/42-Documentation/blob/main/banners/about.png" alt="Info Image" width="30"> ABOUT 
 
-Here, I want to share some of my documentation about 42 projects. These resources were created not only to support myself, but all of you as well. I hope they prove helpful on your journey through the Common Core curriculum. Welcome, and enjoy sharing them with your peers!
+<p>Here, I want to share some of my documentation about 42 projects. These resources were created not only to support myself, but all of you as well. I hope they prove helpful on your journey through the Common Core curriculum. Welcome, and enjoy sharing them with your peers!</p>
 
-</br>
-
-## <img src="https://github.com/antonimodev/42-Documentation/blob/main/banners/documentationicon.png" alt="Documentation image" width=30> DOCS
+## <img src="https://github.com/antonimodev/42-Documentation/blob/main/banners/Notion_app_logo.png" alt="Notion Logo" width="22"> DOCS
 
 <div style="text-align: center;">
     <ul style="list-style-type: none; padding: 0;">
