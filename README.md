@@ -22,9 +22,7 @@ Here, I want to share some of my documentation about 42 projects. These resource
 <div style="text-align: center;">
     <ul style="list-style-type: none; padding: 0;">
         <li>
-            <a href="https://artistic-tailor-dc0.notion.site/Born2beroot-5d6fe79f522349d28ede85079ab52615?pvs=74" title="Born2Beroot" target="_blank">
-                Born2Beroot
-            </a>
+            <a href="https://artistic-tailor-dc0.notion.site/Born2beroot-5d6fe79f522349d28ede85079ab52615?pvs=74" title="Born2Beroot" > Born2Beroot </a>
         </li>
     </ul>
 </div>
