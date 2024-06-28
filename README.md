@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://github.com/antonimodev/42-Documentation/blob/main/banners/DOCUMENTATION%20BANNER%.png"
+   <img src="https://github.com/antonimodev/42-Documentation/blob/main/banners/DOCUMENTATION%20BANNER.png"
       alt="42 Documentation Header"
       width=900
       />
@@ -22,7 +22,7 @@ Here, I want to share some of my documentation about 42 projects. These resource
 <div style="text-align: center;">
     <ul style="list-style-type: none; padding: 0;">
         <li>
-            <a href="https://artistic-tailor-dc0.notion.site/Born2beroot-5d6fe79f522349d28ede85079ab52615?pvs=74" title="Born2Beroot">
+            <a href="https://artistic-tailor-dc0.notion.site/Born2beroot-5d6fe79f522349d28ede85079ab52615?pvs=74" title="Born2Beroot" target="_blank">
                 Born2Beroot
             </a>
         </li>
